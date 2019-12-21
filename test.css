@@ -1,0 +1,50 @@
+*{ 
+    border: 2px solid #dedede; 
+    padding: 15px; 
+    margin: 15px; 
+}
+html { 
+  margin: 0;
+  padding: 0;
+}
+body { 
+  max-width: 600px;
+  margin: 30px auto;
+  font-family: sans-serif;
+  color: #333;
+  
+}
+
+p {
+    margin: 2px;
+}
+
+#b div {
+  overflow-y: scroll;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 20px;
+  padding: 20px;
+  font-size: 15pt;
+  text-align: center;
+  background-color: lawngreen;
+}
+
+.box {
+  width: 200px;
+  height: 100px;
+  float: left;
+  margin: 20px;
+  padding: 20px;
+  font-size: 15pt;
+  text-align: center;
+  background-color: aqua;
+}
+
+#hasil{
+  overflow-y: scroll;
+}
